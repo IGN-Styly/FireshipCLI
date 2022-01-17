@@ -1,0 +1,2 @@
+# FireshipCLI
+Fireship CLI wallet.
